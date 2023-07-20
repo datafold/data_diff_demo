@@ -1,3 +1,4 @@
 {
-  "datafold-vscode.dbtProfilesDir": "/Users/sung/Desktop/jaffle_shop_duckdb"
+  "datafold-vscode.dbtProfilesDir": "/Users/sung/Desktop/jaffle_shop_duckdb",
+  "datafold-vscode.dbtProjectDir": "/Users/sung/Desktop/jaffle_shop_duckdb"
 }

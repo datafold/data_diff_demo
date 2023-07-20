@@ -4,6 +4,6 @@ dbt-core==1.5.2
 # Database adapter
 # dbt-duckdb==1.5.2
 dbt-postgres==1.5.2
-# data-diff==0.7.13
+data-diff==0.7.14
 # install master to get the postgres plugin working
 git+https://github.com/jwills/dbt-duckdb.git@master
