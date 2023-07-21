@@ -1,7 +1,7 @@
-name: jaffle_shop
+name: datafold_demo
 config-version: 2
 version: '0.1'
-profile: jaffle_shop
+profile: datafold_demo
 model-paths:
   - models
 seed-paths:
@@ -23,11 +23,11 @@ require-dbt-version:
 seeds:
   fast: true
 models:
-  jaffle_shop:
+  datafold_demo:
     materialized: table
     staging:
       materialized: view
 vars:
   data_diff:
-    prod_database: md:jaffle_shop
+    prod_database: datafold_demo
     prod_schema: prod_sung
