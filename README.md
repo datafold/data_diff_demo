@@ -12,12 +12,11 @@ Copy and paste the below in your terminal to get started with this demo in a sin
 ```shell
 python3 -m venv venv # setup your virtual environment
 source venv/bin/activate # activate it
-python3 -m pip install --upgrade pip
-python3 -m pip install -r requirements.txt
-source venv/bin/activate
-dbt build
-dbt build --target prod
-data-diff --dbt
+python3 -m pip install --upgrade pip # upgrade pip
+python3 -m pip install -r requirements.txt # install dbt and data-diff
+source venv/bin/activate # reactivate virtual environment
+dbt build # build development datasets
+dbt build --target prod # build production datasets
+data-diff --dbt # run data-diff CLI to compare development and production datasets
 ```
 
-> Note: the rest of this is the original README.md file from the dbt-labs/jaffle_shop_duckdb repo
