@@ -9,6 +9,8 @@ TODO: add a link to the blog post
 
 ### Let's get started!
 
+TODO: add loom video
+
 Copy and paste the below in your terminal to get started with this demo in a single motion.
 
 ```shell
@@ -36,5 +38,12 @@ Update Settings for the VSCode Extension
 
 Set your specific settings for the VSCode Extension
 > Note: set absolute paths to avoid any issues
+> Your paths will be different than mine and will likely look like the below
+
+dbt Profiles Directory: `/Users/<your name>/data_diff_demo`
+
+dbt Project Directory: `/Users/<your name>/data_diff_demo`
+
+Python Path: `/Users/<your name>/data_diff_demo/venv/bin/python3`
 
 ![Set Settings](./images/specific_settings.png)
