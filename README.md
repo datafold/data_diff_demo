@@ -24,6 +24,9 @@ dbt build --target prod # build production datasets
 data-diff --dbt # run data-diff CLI to compare development and production datasets
 ```
 
+Your terminal should look like this:
+![Install Datafold Extension](./images/validate_setup.png)
+
 Install the VSCode Extension
 ![Install Datafold Extension](./images/install_datafold_extension.png)
 
