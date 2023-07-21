@@ -47,3 +47,5 @@ dbt Project Directory: `/Users/<your name>/data_diff_demo`
 Python Path: `/Users/<your name>/data_diff_demo/venv/bin/python3`
 
 ![Set Settings](./images/specific_settings.png)
+
+TODO: add notes for watch mode and other hot keys to use
