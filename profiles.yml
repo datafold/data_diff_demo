@@ -4,12 +4,12 @@ datafold_demo:
   outputs:
     dev:
       type: duckdb
-      schema: dev_sung
+      schema: development
       path: 'datafold_demo.duckdb'
       threads: 16
 
     prod:
       type: duckdb
-      schema: prod_sung
+      schema: production
       path: 'datafold_demo.duckdb'
       threads: 16
