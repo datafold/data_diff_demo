@@ -30,4 +30,4 @@ models:
 vars:
   data_diff:
     prod_database: datafold_demo
-    prod_schema: prod_sung
+    prod_schema: production
