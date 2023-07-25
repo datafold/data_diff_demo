@@ -29,5 +29,6 @@ models:
       materialized: view
 vars:
   data_diff:
+    datasource_id: 6357 # from datafold Data Sources page
     prod_database: datafold_demo
     prod_schema: production
