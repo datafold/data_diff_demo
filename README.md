@@ -4,9 +4,6 @@ This is a demo for how to use the [Datafold VSCode Extension](https://marketplac
 
 Our team at [Datafold](https://datafold.com/) built this extension to help data teams move faster and with more confidence when shipping data. We hope you find it useful!
 
-TODO: add a link to the blog post
-
-
 ### Let's get started!
 
 TODO: add loom video
