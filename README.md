@@ -1,6 +1,6 @@
-# Datafold VSCode Extension Demo: Data Diffs
+# Datafold VS Code Extension Demo: Data Diffs
 
-This is a demo for how to use the [Datafold VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Datafold.datafold-vscode&ssr=false#overview) to compare data between your development and production environments with [dbt](https://www.getdbt.com/).
+This is a demo for how to use the [Datafold VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Datafold.datafold-vscode&ssr=false#overview) to compare data between your development and production environments with [dbt](https://www.getdbt.com/).
 
 Our team at [Datafold](https://datafold.com/) built this extension to help data teams move faster and with more confidence when shipping data. We hope you find it useful!
 
@@ -24,14 +24,14 @@ data-diff --dbt # run data-diff CLI to compare development and production datase
 Your terminal should look like this:
 ![Install Datafold Extension](./images/validate_setup.png)
 
-Install the VSCode Extension
+Install the VS Code Extension
 ![Install Datafold Extension](./images/install_datafold_extension.png)
 
 
-Update Settings for the VSCode Extension
+Update Settings for the VS Code Extension
 ![Update Settings](./images/update_settings.png)
 
-Set your specific settings for the VSCode Extension
+Set your specific settings for the VS Code Extension
 > Note: set absolute paths to avoid any issues.
 > Your paths will be different than mine and will likely look like the below
 
