@@ -32,7 +32,7 @@ Update Settings for the VSCode Extension
 ![Update Settings](./images/update_settings.png)
 
 Set your specific settings for the VSCode Extension
-> Note: set absolute paths to avoid any issues
+> Note: set absolute paths to avoid any issues.
 > Your paths will be different than mine and will likely look like the below
 
 dbt Profiles Directory: `/Users/<your name>/data_diff_demo`
