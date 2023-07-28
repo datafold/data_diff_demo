@@ -4,9 +4,7 @@ This is a demo for how to use the [Datafold VSCode Extension](https://marketplac
 
 Our team at [Datafold](https://datafold.com/) built this extension to help data teams move faster and with more confidence when shipping data. We hope you find it useful!
 
-### Let's get started!
-
-TODO: add loom video
+## Let's get started!
 
 Copy and paste the below in your terminal to get started with this demo in a single motion.
 
@@ -45,4 +43,11 @@ Python Path: `/Users/<your name>/data_diff_demo/venv/bin/python3`
 
 ![Set Settings](./images/specific_settings.png)
 
-TODO: add notes for watch mode and other hot keys to use
+Change a model like `customers.sql` and run in your terminal: `dbt build`
+
+Run Data Diff through the Datafold Extension
+
+![datafold_diff_button](./images/datafold_diff_button.png)
+
+View the results!
+![datafold_diff_results](./images/data_diff_results.png)
